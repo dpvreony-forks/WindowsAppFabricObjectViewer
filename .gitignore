@@ -7,3 +7,6 @@ obj
 TestResults
 Shell/bin
 Shell/obj
+
+*.user
+*.suo
